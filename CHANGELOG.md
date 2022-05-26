@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.16.4](https://github.com/crsohara/VueTorrent/compare/v0.16.3...v0.16.4) (2022-05-26)
+
+
+### Bug Fixes
+
+* use min-height class ([f623d77](https://github.com/crsohara/VueTorrent/commit/f623d77db81d13933b9560db0959390fcecabda3))
+
 ### [0.16.3](https://github.com/crsohara/VueTorrent/compare/v0.16.2...v0.16.3) (2022-05-26)
 
 
