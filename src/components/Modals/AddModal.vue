@@ -4,6 +4,7 @@
     :transition="dTransition"
     :content-class="phoneLayout ? 'rounded-0' : 'rounded-form'"
     max-width="500px"
+    style="min-height: 100%;"
     :fullscreen="phoneLayout"
     persistent
   >
