@@ -2,9 +2,8 @@
   <v-dialog
     v-model="dialog"
     :transition="dTransition"
-    :content-class="phoneLayout ? 'rounded-0' : 'rounded-form'"
+    :content-class="phoneLayout ? 'rounded-0 min-height-100' : 'rounded-form'"
     max-width="500px"
-    style="min-height: 100%;"
     :fullscreen="phoneLayout"
     persistent
   >
@@ -355,5 +354,8 @@ export default {
   transform: translateY(-50%);
   color: #fff;
   padding: 0;
+}
+.min-height-100 {
+  min-height: 100%;
 }
 </style>
