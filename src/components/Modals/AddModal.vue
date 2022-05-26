@@ -22,7 +22,7 @@
       @dragleave.prevent="DragLeave"
     />
     <v-card
-      style="height:100%"
+      style="min-height:100%"
       :class="showWrapDrag ? 'wrap-drag' : ''"
       @drop.prevent="addDropFile"
       @dragover.prevent="showWrapDrag = true"
