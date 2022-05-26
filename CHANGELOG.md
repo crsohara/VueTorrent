@@ -5,6 +5,19 @@
 
 ### Bug Fixes
 
+* iOS safarai AddModal overflow with long magnet input ([20e2dfc](https://github.com/crsohara/VueTorrent/commit/20e2dfc4706dac9512dd1b3186a3c0a458ff84d6))
+* speed limit dialog incorrect text display and zh-hant fix ([#425](https://github.com/crsohara/VueTorrent/issues/425)) ([45b244f](https://github.com/crsohara/VueTorrent/commit/45b244fbcf1ed63ebb2757a821343ed384a832f4))
+
+
+### Improvements
+
+* update Traditional Chinese translations ([#422](https://github.com/crsohara/VueTorrent/issues/422)) ([964b145](https://github.com/crsohara/VueTorrent/commit/964b1451a1758522856fae2c730af9db66e351a1))
+
+### [0.16.3](https://github.com/crsohara/VueTorrent/compare/v0.16.2...v0.16.3) (2022-05-26)
+
+
+### Bug Fixes
+
 * speed limit dialog incorrect text display and zh-hant fix ([#425](https://github.com/crsohara/VueTorrent/issues/425)) ([45b244f](https://github.com/crsohara/VueTorrent/commit/45b244fbcf1ed63ebb2757a821343ed384a832f4))
 
 
