@@ -1,5 +1,18 @@
 # Changelog
 
+### [0.16.3](https://github.com/crsohara/VueTorrent/compare/v0.16.2...v0.16.3) (2022-05-26)
+
+
+### Bug Fixes
+
+* iOS safari AddModal overflow with long magnet ([cf42dac](https://github.com/crsohara/VueTorrent/commit/cf42dac691f81cb197c6a2213d19cefa40426820))
+* speed limit dialog incorrect text display and zh-hant fix ([#425](https://github.com/crsohara/VueTorrent/issues/425)) ([45b244f](https://github.com/crsohara/VueTorrent/commit/45b244fbcf1ed63ebb2757a821343ed384a832f4))
+
+
+### Improvements
+
+* update Traditional Chinese translations ([#422](https://github.com/crsohara/VueTorrent/issues/422)) ([964b145](https://github.com/crsohara/VueTorrent/commit/964b1451a1758522856fae2c730af9db66e351a1))
+
 ### [0.16.3](https://github.com/WDaan/VueTorrent/compare/v0.16.2...v0.16.3) (2022-05-14)
 
 
